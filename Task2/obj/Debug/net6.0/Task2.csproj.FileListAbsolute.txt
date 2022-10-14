@@ -1,0 +1,15 @@
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\bin\Debug\net6.0\Task2.exe
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\bin\Debug\net6.0\Task2.deps.json
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\bin\Debug\net6.0\Task2.dll
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\bin\Debug\net6.0\Task2.pdb
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.dll
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\refint\Task2.dll
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.pdb
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+E:\GeekBrains\1 семестр\Знакомства с языками програмирования семинар\Homework\Homework8\Task2\obj\Debug\net6.0\ref\Task2.dll
